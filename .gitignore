@@ -1,0 +1,6 @@
+data-20260618T113530Z-3-001/ 
+data-20260618T113530Z-3-001.zip 
+*.zip 
+*.jsonl 
+__pycache__/ 
+.ipynb_checkpoints/ 
